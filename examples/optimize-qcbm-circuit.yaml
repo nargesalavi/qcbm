@@ -10,7 +10,7 @@ resources:
 - name: qcbm
   type: git
   parameters:
-    url: "git@github.com:<your-github-username>/<your-git-repo-name>.git"
+    url: "git@github.com:nargesalavi/qcbm.git"
     branch: "master"
 - name: z-quantum-optimizers
   type: git
